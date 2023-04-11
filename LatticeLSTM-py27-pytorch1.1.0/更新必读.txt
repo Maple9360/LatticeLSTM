@@ -1,0 +1,4 @@
+本次更新使用python27和torch1.1.0
+
+安装如下：
+conda install pytorch-cpu==1.1.0 torchvision-cpu==0.3.0 cpuonly -c pytorch
